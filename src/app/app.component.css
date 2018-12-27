@@ -1,0 +1,20 @@
+ul li {
+  margin: 10px;
+  list-style: none;
+  background-color: black;
+  color: #fff;
+  padding: 5px 10px;
+  box-shadow: 2px 2px 2px rgb(161, 161, 161);
+  cursor: pointer;
+}
+ul {
+  display: flex;
+}
+
+div {
+}
+
+.xyz {
+  background-color: yellowgreen !important;
+  color: black !important;
+}
